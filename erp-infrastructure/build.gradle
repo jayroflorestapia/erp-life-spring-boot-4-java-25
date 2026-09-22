@@ -1,0 +1,5 @@
+dependencies {
+    implementation project(':erp-application')
+    implementation project(':erp-domain')
+    implementation project(':erp-common')
+}
