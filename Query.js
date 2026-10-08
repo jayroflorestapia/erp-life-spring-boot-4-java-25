@@ -1,0 +1,3 @@
+use erp_catalogo_db
+db
+show collections
